@@ -1,4 +1,32 @@
+*{
+ box-sizing: border-box;
+ margin: 0;
+}
+
 .title1{
     background-color: aqua;
-    color: brown;
+    color: rgb(202, 13, 13);
+    text-align: center;
+    border-style: solid ;
 }
+
+.para1{
+    color: rgb(0, 0, 0);
+    border-style: solid;
+    
+    
+
+}
+
+body{
+   background-image: url(https://wallpaperaccess.com/full/1534312.jpg);
+   
+}
+
+.para2{
+    color: rgb(165, 132, 42);
+   border-style: solid;
+   background-color: maroon;
+   
+}
+
